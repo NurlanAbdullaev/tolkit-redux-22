@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tolkit-redux-22/static/css/main.764d37e0.css",
+    "main.js": "/tolkit-redux-22/static/js/main.ca0b646d.js",
+    "index.html": "/tolkit-redux-22/index.html",
+    "main.764d37e0.css.map": "/tolkit-redux-22/static/css/main.764d37e0.css.map",
+    "main.ca0b646d.js.map": "/tolkit-redux-22/static/js/main.ca0b646d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.764d37e0.css",
+    "static/js/main.ca0b646d.js"
+  ]
+}
